@@ -6,6 +6,8 @@ my_list = [
     {'name': 'apple', 'color': 'red', 'price': 0.75},
     {'name': 'banana', 'color': 'yellow', 'price': 0.50},
     {'name': 'cherry', 'color': 'red', 'price': 1.50},
+    {'name': 'orange', 'color': 'orange', 'price': 2.50},
+
 ]
 
 output_folder = 'data'

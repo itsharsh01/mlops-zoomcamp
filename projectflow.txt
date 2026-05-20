@@ -7,3 +7,8 @@ dvc remote add -d myremote s3
 git rm -r --cached 'data'
 git commit 
 dvc add data/
+check in gitignore data is added or not 
+dvc commit 
+dvc push
+git commit 
+git push
