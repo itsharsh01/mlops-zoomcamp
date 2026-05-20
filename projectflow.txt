@@ -1,2 +1,9 @@
 Create a git repo
 Create a file code.py
+Push to github
+pip install dvc
+dvc init
+dvc remote add -d myremote s3
+git rm -r --cached 'data'
+git commit 
+dvc add data/
